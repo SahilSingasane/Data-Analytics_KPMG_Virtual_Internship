@@ -20,11 +20,13 @@ In building this recommendation, we started with a PowerPoint presentation which
 The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
 
-# Task 3: Data Insights and Presentation (MS Excel included)
+# Task 3: Data Insights and Presentation (Tableau included)
 Using visualisations to present insights
 
-Developed a dashboard using Excel/Tableau that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were:
+Developed a dashboard using Tableau that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were:
 
 What are the trends in the underlying data?
 Which customer segment has the highest customer value?
 What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+
+![image](https://github.com/SahilSingasane/Data-Analytics_KPMG_Virtual_Internship/assets/95539282/d6287a8c-ce7c-4e40-9c95-2bc3c4dc8d92)
